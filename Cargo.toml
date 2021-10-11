@@ -1,0 +1,12 @@
+[package]
+name = "pipelines"
+version = "0.1.0"
+authors = ["CoreyShupe <coreyshupe101@gmail.com>"]
+repository = "https://github.com/CoreyShupe/pipelines.rs"
+homepage = "https://github.com/CoreyShupe/pipelines.rs"
+license-file = "LICENSE"
+readme = "README.md"
+edition = "2018"
+description = "Sets up a fully functional pipeline interface over a tokio TCP server."
+
+[dependencies]
